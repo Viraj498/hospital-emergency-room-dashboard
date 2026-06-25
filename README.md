@@ -103,9 +103,11 @@ The dashboard is built using hospital emergency room data containing patient dem
 
 **Viraj Devkar**
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
+- LinkedIn: https://www.linkedin.com/in/viraj-devkar/
 - GitHub: https://github.com/Viraj498
 
 ---
 
 ⭐ If you found this project helpful, consider giving it a star!
+<img width="1801" height="818" alt="Hospital Dashboard Final " src="https://github.com/user-attachments/assets/08ddf1b9-1fb2-4c8d-a233-252dfbfb64aa" />
+
