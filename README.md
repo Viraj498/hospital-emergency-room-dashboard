@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Dashboard
+[Hospital Emergency Room Data.csv](https://github.com/user-attachments/files/29333284/Hospital.Emergency.Room.Data.csv)[Hospital Emergency Room Data.csv](https://github.com/user-attachments/files/29333251/Hospital.Emergency.Room.Data.csv)# 🏥 Hospital Emergency Room Dashboard
 
 An interactive Microsoft Excel dashboard designed to analyze Emergency Room (ER) operations and provide actionable insights into patient flow, waiting times, admissions, referrals, and overall hospital performance.
 
@@ -35,7 +35,7 @@ Hospitals generate large amounts of patient data every day. This dashboard trans
 - Average Waiting Time
 - Number of Admissions
 - Number of Referrals
-- Patient Satisfaction (if included)
+- Patient Satisfaction 
 - Gender Distribution
 - Age Group Analysis
 - Department-wise Patient Count
@@ -51,7 +51,7 @@ Hospitals generate large amounts of patient data every day. This dashboard trans
 - Slicers
 - Conditional Formatting
 - Data Validation
-- Lookup Functions (XLOOKUP/VLOOKUP if used)
+- Lookup Functions (XLOOKUP/VLOOKUP are used)
 - Excel Charts & Visualizations
 
 ---
@@ -60,7 +60,6 @@ Hospitals generate large amounts of patient data every day. This dashboard trans
 
 The dashboard is built using hospital emergency room data containing patient demographics, visit details, waiting times, admission status, referral information, and other operational metrics.
 
-> *(Replace this with the actual source if you used a public dataset, e.g., Kaggle.)*
 
 ---
 
@@ -105,6 +104,7 @@ The dashboard is built using hospital emergency room data containing patient dem
 
 - LinkedIn: https://www.linkedin.com/in/viraj-devkar/
 - GitHub: https://github.com/Viraj498
+- email: devkarviraj498@gmail.com
 
 ---
 
