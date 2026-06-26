@@ -1,4 +1,4 @@
-[Hospital Emergency Room Data.csv](https://github.com/user-attachments/files/29333284/Hospital.Emergency.Room.Data.csv)[Hospital Emergency Room Data.csv](https://github.com/user-attachments/files/29333251/Hospital.Emergency.Room.Data.csv)# 🏥 Hospital Emergency Room Dashboard
+[Hospital Emergency Room Data.csv](https://github.com/user-attachments/files/29333251/Hospital.Emergency.Room.Data.csv)# 🏥 Hospital Emergency Room Dashboard
 
 An interactive Microsoft Excel dashboard designed to analyze Emergency Room (ER) operations and provide actionable insights into patient flow, waiting times, admissions, referrals, and overall hospital performance.
 
